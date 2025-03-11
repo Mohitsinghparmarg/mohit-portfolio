@@ -1,5 +1,5 @@
 const header = {
-  "homepage": "https://Mohitsinghparmarg.github.io/Mohit_PortFolio",
+  "homepage": "https://github.com/Mohitsinghparmarg/mohit-portfolio.git",
   title: "Mohit Singh Parmar",
 };
 
@@ -36,14 +36,14 @@ const projects = [
     name: "DevSpark",
     description:
       "DevSpark is a social app with real-time chat, profile updates, JWT auth, RESTful APIs, and optimized database performance.",
-    stack: ["JavaScript","Node.js", "Express.js", "MongoDB", "REST API", "Pagination", "JWT Authentication"],
+    stack: ["JavaScript", "Node.js", "Express.js", "MongoDB", "REST API", "Pagination", "JWT Authentication"],
     sourceCode: "https://github.com/Mohitsinghparmarg/DevSpark",
   },
   {
     name: "FlavorFlow",
     description:
       "FlavorFlow is a food ordering app linking users to restaurants for quick delivery and a smooth experience, with plans to enhance UX and expand options.",
-    stack: ["JavaScript","Reactjs", "TailwindCSS", "Redux"],
+    stack: ["JavaScript", "Reactjs", "TailwindCSS", "Redux"],
     sourceCode: "https://github.com/Mohitsinghparmarg/FlavorFlow",
   },
   {
@@ -64,10 +64,10 @@ const projects = [
 ];
 
 const skills = [
-  "C/C++", "Java", "Python", "JavaScript", "TypeScript", "Golang", "SQL (PostgreSQL, MySQL)","HTML/CSS", "Bootstrap", "Tailwind CSS", "React.js", "Redux", "Next.js",
-"Node.js", "Express.js", "MongoDB", "RESTful APIs", "EJS",
-"Material UI", "JWT",
-"Linux", "Git", "GitHub"
+  "C/C++", "Java", "Python", "JavaScript", "TypeScript", "Golang", "SQL (PostgreSQL, MySQL)", "HTML/CSS", "Bootstrap", "Tailwind CSS", "React.js", "Redux", "Next.js",
+  "Node.js", "Express.js", "MongoDB", "RESTful APIs", "EJS",
+  "Material UI", "JWT",
+  "Linux", "Git", "GitHub"
 ];
 
 const contact = {

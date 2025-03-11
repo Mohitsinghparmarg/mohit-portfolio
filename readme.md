@@ -57,7 +57,7 @@ npm run deploy
 Ensure that your `package.json` has the correct `homepage` field:
 
 ```json
-"homepage": "https://github.com/Mohitsinghparmarg/mohit.github.io.git"
+"homepage": "https://github.com/Mohitsinghparmarg/mohit-portfolio.git"
 ```
 
 This field tells the build script where the application will be hosted.
