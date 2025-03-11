@@ -8,7 +8,7 @@ const about = {
   role: "Full Stack Developer",
   description:
     'A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
-  resume: 'https://drive.google.com/file/d/1uMLi2ScrvEb-fns8VZHlbuv3axO1eRW_/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1n3PKjR-hn7o_1csaaU2WmCxlH_tLvTyl/view?usp=sharing',
   social: {
     linkedin: "https://www.linkedin.com/in/mohit-singh-parmar-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
@@ -64,7 +64,7 @@ const projects = [
 ];
 
 const skills = [
-  "C/C++", "Java", "Python", "JavaScript", "TypeScript", "Golang", "SQL (PostgreSQL, MySQL)", "HTML/CSS", "Bootstrap", "Tailwind CSS", "React.js", "Redux", "Next.js",
+  "C/C++", "Python", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "Bootstrap", "Tailwind CSS", "React.js", "Redux", "Next.js",
   "Node.js", "Express.js", "MongoDB", "RESTful APIs", "EJS",
   "Material UI", "JWT",
   "Linux", "Git", "GitHub"
