@@ -8,7 +8,7 @@ const about = {
   role: "Full Stack Developer",
   description:
     'A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
-  resume: 'https://drive.google.com/file/d/1n3PKjR-hn7o_1csaaU2WmCxlH_tLvTyl/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/125DuSGf5R4_0iEOIxWed-GFy-j6SYjnR/view?usp=sharing',
   social: {
     linkedin: "https://www.linkedin.com/in/mohit-singh-parmar-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
@@ -35,7 +35,7 @@ const projects = [
   {
     name: "DevSpark",
     description:
-      "DevSpark is a social app with real-time chat, profile updates, JWT auth, RESTful APIs, and optimized database performance.",
+      "A social networking app enabling users to connect, profile updates, JWT auth, RESTful APIs, and optimized database performance.",
     stack: ["JavaScript", "Node.js", "Express.js", "MongoDB", "REST API", "Pagination", "JWT Authentication"],
     sourceCode: "https://github.com/Mohitsinghparmarg/DevSpark",
   },
@@ -64,10 +64,9 @@ const projects = [
 ];
 
 const skills = [
-  "C/C++", "Python", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "Bootstrap", "Tailwind CSS", "React.js", "Redux", "Next.js",
-  "Node.js", "Express.js", "MongoDB", "RESTful APIs", "EJS",
-  "Material UI", "JWT",
-  "Linux", "Git", "GitHub"
+  "C/C++", "Java", "Python", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "Tailwind CSS", "React.js", "Redux", "Next.js",
+  "Node.js", "Express.js", "MongoDB", "RESTful APIs","JWT", "EJS",
+  "Material UI", "Git", "GitHub"
 ];
 
 const contact = {
