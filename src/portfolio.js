@@ -8,7 +8,7 @@ const about = {
   role: "Full Stack Developer",
   description:
     'A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
-  resume: 'https://drive.google.com/file/d/125DuSGf5R4_0iEOIxWed-GFy-j6SYjnR/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1TqpIXcseocZlPyCfZHWMXYEilPxvz-Qk/view?usp=sharing',
   social: {
     linkedin: "https://www.linkedin.com/in/mohit-singh-parmar-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
