@@ -56,7 +56,7 @@ const projects = [
   {
     name: "Sentiment Analysis",
     description:
-      "This Python tool analyzes text sentiment as positive, negative, or neutral using NLTK and Scikit-learn, offering insights into opinions and feedback.",
+      "This Python tool analyzes text sentiment as positive, negative, or neutral using NLTK and Scikit-learn, offering insights into opinions and feedback. A multilingual feature has been added to support sentiment analysis in multiple languages, enhancing its versatility for global user feedback.",
     stack: ["Python", "NumPy", "NLTK", "Keras"],
     sourceCode: "https://github.com/Mohitsinghparmarg/sentiment_analysis",
   },
