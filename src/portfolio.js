@@ -7,8 +7,13 @@ const about = {
   name: "Mohit Jay Prakash",
   role: "Full Stack Developer",
   description:
+<<<<<<< HEAD
     ' I am A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
   resume: 'https://drive.google.com/file/d/1FWw7vnKfjnKYZM6BHYTrmYxMUHOu4XIO/view?usp=sharing',
+=======
+    'A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
+  resume: 'https://drive.google.com/file/d/11G37yXIKwRicGGZG94m_gq3-ujrGdj5Q/view?usp=sharing',
+>>>>>>> e29a7675579a53b73abe85907fd45757f38656eb
   social: {
     linkedin: "https://www.linkedin.com/in/mohit-jay-prakash-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
@@ -56,7 +61,7 @@ const projects = [
   {
     name: "Sentiment Analysis",
     description:
-      "This Python tool analyzes text sentiment as positive, negative, or neutral using NLTK and Scikit-learn, offering insights into opinions and feedback.",
+      "This Python tool analyzes text sentiment as positive, negative, or neutral using NLTK and Scikit-learn, offering insights into opinions and feedback. A multilingual feature has been added to support sentiment analysis in multiple languages, enhancing its versatility for global user feedback.",
     stack: ["Python", "NumPy", "NLTK", "Keras"],
     sourceCode: "https://github.com/Mohitsinghparmarg/sentiment_analysis",
   },
