@@ -1,16 +1,16 @@
 const header = {
   "homepage": "https://github.com/Mohitsinghparmarg/mohit-portfolio.git",
-  title: "Mohit Singh Parmar",
+  title: "Mohit Jay Prakash",
 };
 
 const about = {
-  name: "Mohit Singh Parmar",
+  name: "Mohit Jay Prakash",
   role: "Full Stack Developer",
   description:
-    'A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
-  resume: 'https://drive.google.com/file/d/1TqpIXcseocZlPyCfZHWMXYEilPxvz-Qk/view?usp=sharing',
+    ' I am A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
+  resume: 'https://drive.google.com/file/d/1FWw7vnKfjnKYZM6BHYTrmYxMUHOu4XIO/view?usp=sharing',
   social: {
-    linkedin: "https://www.linkedin.com/in/mohit-singh-parmar-1ba948274/",
+    linkedin: "https://www.linkedin.com/in/mohit-jay-prakash-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
   },
 };
