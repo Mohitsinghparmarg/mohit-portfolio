@@ -1,21 +1,35 @@
 const header = {
-  "homepage": "https://github.com/Mohitsinghparmarg/mohit-portfolio.git",
-  title: "Mohit Jay Prakash",
+  homepage: "https://github.com/Mohitsinghparmarg/mohit-portfolio.git",
+  title: "Mohit",
 };
 
 const about = {
-  name: "Mohit Jay Prakash",
-  role: "Full Stack Developer",
+  name: "Mohit",
+  role: "Software Developer",
   description:
-    'A Full Stack Developer designs and implements both front-end and back-end solutions, ensuring seamless integration and functionality across applications.',
-  resume: 'https://drive.google.com/file/d/1FWw7vnKfjnKYZM6BHYTrmYxMUHOu4XIO/view',
+    "A passionate Software Developer with a strong focus on building full-stack applications that are scalable, user-friendly, and innovative.",
+  resume: "https://drive.google.com/file/d/1zdaO26ysMqS7XuSRlDpHR8d4-diaiP3Q/view",
   social: {
-    linkedin: "https://www.linkedin.com/in/mohit-jay-prakash-1ba948274/",
+    linkedin: "https://www.linkedin.com/in/mohit-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
   },
 };
 
 const projects = [
+  {
+    name: "Food Gyan",
+    description:
+      "A full-stack recipe management app built with Angular, Node.js, Neo4j, and JWT. It enables users to create, edit, and explore personalized recipes with a smooth and secure experience.",
+    stack: [
+      "Angular",
+      "Node.js",
+      "Neo4j",
+      "JWT",
+      "TypeScript",
+      "Reactive Forms",
+    ],
+    sourceCode: "https://github.com/Mohitsinghparmarg/food-gyan",
+  },
   {
     name: "NetFlixGpt",
     description:
@@ -24,10 +38,10 @@ const projects = [
       "JavaScript",
       "Reactjs",
       "TailwindCSS",
-      "Firebass",
+      "Firebase",
       "Redux",
       "TMDB API",
-      "GPT API"
+      "GPT API",
     ],
     sourceCode:
       "https://github.com/Mohitsinghparmarg/NetflixGPT---The-Beginning",
@@ -36,7 +50,15 @@ const projects = [
     name: "DevSpark",
     description:
       "A social networking app enabling users to connect, profile updates, JWT auth, RESTful APIs, and optimized database performance.",
-    stack: ["JavaScript", "Node.js", "Express.js", "MongoDB", "REST API", "Pagination", "JWT Authentication"],
+    stack: [
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "Pagination",
+      "JWT Authentication",
+    ],
     sourceCode: "https://github.com/Mohitsinghparmarg/DevSpark",
   },
   {
@@ -50,7 +72,12 @@ const projects = [
     name: "iCompressor",
     description:
       "I built a C++ CLI text compression tool with a 40% compression ratio, using a Trie for speed and custom dictionaries for flexibility.",
-    stack: ["C++", "Trie Data Structure", "Command-Line Application", "Header Files"],
+    stack: [
+      "C++",
+      "Trie Data Structure",
+      "Command-Line Application",
+      "Header Files",
+    ],
     sourceCode: "https://github.com/Mohitsinghparmarg/iCompressor",
   },
   {
@@ -60,17 +87,52 @@ const projects = [
     stack: ["Python", "NumPy", "NLTK", "Keras"],
     sourceCode: "https://github.com/Mohitsinghparmarg/sentiment_analysis",
   },
-
 ];
 
+
 const skills = [
-  "C/C++", "Java", "Python", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "Tailwind CSS", "React.js", "Redux", "Next.js",
-  "Node.js", "Express.js", "MongoDB", "RESTful APIs","JWT", "EJS",
-  "Material UI", "Git", "GitHub"
+  // Programming Languages
+  "C/C++",
+  "Java",
+  "JavaScript",
+  "TypeScript",
+  "SQL",
+
+  // Frontend
+  "HTML",
+  "CSS",
+  "Tailwind CSS",
+  "React.js",
+  "Redux Toolkit",
+  "Angular",
+
+  // Backend
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "REST APIs",
+  "Neo4j",
+
+  // DevOps & Tools
+  "Git",
+  "AWS (EC2, S3)",
+  "Postman",
+  "Jest",
+  "JWT",
+  "Vercel",
+  "Docker (basic)",
+
+  // CS Fundamentals
+  "Data Structures",
+  "Algorithms",
+  "OOP",
+  "DBMS",
+  "Operating Systems",
+  "Software Engineering",
 ];
 
 const contact = {
-  email: "mohitparmar1501@gmail.com@gmail.com",
+  email: "mohitparmar1501@gmail.com",
 };
 
 export { header, about, projects, skills, contact };
