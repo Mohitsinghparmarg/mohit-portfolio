@@ -8,7 +8,7 @@ const about = {
   role: "Software Developer",
   description:
     "A passionate Software Developer with a strong focus on building full-stack applications that are scalable, user-friendly, and innovative.",
-  resume: "https://drive.google.com/file/d/1zdaO26ysMqS7XuSRlDpHR8d4-diaiP3Q/view",
+  resume: "https://drive.google.com/file/d/140rXVJ7TGmH1nJ4g4ruTup-BEC-dXVaO/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/mohit-1ba948274/",
     github: "https://github.com/Mohitsinghparmarg",
